@@ -181,10 +181,10 @@
         <text>Sub%20Heading%20%0A%20selected%20opt</text>
       </controlProperties>
     </control>
-    <control controlID="95" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="180" y="209" w="-1" h="-1" measuredW="133" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="180" y="209" w="-1" h="-1" measuredW="204" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <size>13</size>
-        <text>Dashboard%2C%20e-Library</text>
+        <text>Dashboard%2C%20e-Library%2CCategary</text>
       </controlProperties>
     </control>
     <control controlID="96" controlTypeID="com.balsamiq.mockups::VCurly" x="0" y="193" w="156" h="56" measuredW="180" measuredH="140" zOrder="35" locked="false" isInGroup="-1">

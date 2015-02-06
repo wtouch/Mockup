@@ -115,10 +115,10 @@
         <text>Sub%20Heading%20%0A%20selected%20opt</text>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="260" y="194" w="-1" h="-1" measuredW="130" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="260" y="194" w="-1" h="-1" measuredW="223" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <size>13</size>
-        <text>Dashboard%2C%20Courses</text>
+        <text>Dashboard%2C%20Courses%2Ccourse%20name</text>
       </controlProperties>
     </control>
     <control controlID="53" controlTypeID="com.balsamiq.mockups::VCurly" x="20" y="178" w="156" h="56" measuredW="180" measuredH="140" zOrder="25" locked="false" isInGroup="-1">

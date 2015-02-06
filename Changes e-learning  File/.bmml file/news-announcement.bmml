@@ -185,10 +185,10 @@
         <text>News%20%26%20Announcements</text>
       </controlProperties>
     </control>
-    <control controlID="64" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="125" y="198" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="125" y="198" w="-1" h="-1" measuredW="225" measuredH="24" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <size>13</size>
-        <text>Dashboard%2C%20News</text>
+        <text>Dashboard%2C%20News%20%26%20Announcements</text>
       </controlProperties>
     </control>
     <control controlID="67" controlTypeID="com.balsamiq.mockups::SubTitle" x="498" y="143" w="-1" h="-1" measuredW="142" measuredH="27" zOrder="49" locked="false" isInGroup="-1">
@@ -216,7 +216,7 @@
         <text>Sub%20Heading</text>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::VCurly" x="276" y="197" w="452" h="26" measuredW="180" measuredH="140" zOrder="54" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::VCurly" x="399" y="197" w="452" h="26" measuredW="180" measuredH="140" zOrder="54" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>left</direction>
         <text>Breadcrumb%20%3E%20this%20show%20how%20you%20are%20from%20dashboard</text>

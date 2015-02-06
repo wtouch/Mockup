@@ -100,10 +100,10 @@
         <text>Sub%20Heading%20%0A%20selected%20opt</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="265" y="216" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="265" y="216" w="-1" h="-1" measuredW="287" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <size>13</size>
-        <text>Dashboard%2CBook%20</text>
+        <text>Dashboard%2Ce-Library%2CCategary%2CBook%20Name</text>
       </controlProperties>
     </control>
     <control controlID="39" controlTypeID="com.balsamiq.mockups::VCurly" x="85" y="200" w="156" h="56" measuredW="180" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
