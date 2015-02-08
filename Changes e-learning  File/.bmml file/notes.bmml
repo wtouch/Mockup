@@ -1,0 +1,128 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1376" measuredH="815" mockupW="1376" mockupH="769">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="165" y="46" w="1030" h="769" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notes</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="165" y="115" w="1024" h="80" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="411" y="115" w="559" h="-1" measuredW="107" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notes</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="187" y="171" w="155" h="-1" measuredW="147" measuredH="20" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Wed%2C%2004-Feb-15%20%7C%2010%3A00%20AM</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="958" y="130" w="-1" h="-1" measuredW="125" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20User%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="1090" y="116" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>User%20Image</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="187" y="117" w="140" h="55" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>eLearning%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::VCurly" x="1195" y="123" w="117" h="72" measuredW="180" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>height%2080px</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="187" y="204" w="980" h="560" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="1117" y="212" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ListIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="199" y="244" w="950" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::VCurly" x="1164" y="212" w="212" h="32" measuredW="180" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20is%20collapsible%20menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="1033" y="215" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Go%20Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Canvas" x="187" y="244" w="230" h="520" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Tree" x="204" y="325" w="198" h="183" measuredW="300" measuredH="225" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3ESubject%201%0Av%20Chapter%0A%20v%20..%20point%0A%20..-%20xxx%0A%20..-%20xxx%0A%20..-%20xxx%0A%3ESubject%202%0A%3ESubject%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::SearchBox" x="199" y="288" w="203" h="-1" measuredW="120" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::SubTitle" x="625" y="158" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::VCurly" x="348" y="123" w="99" h="26" measuredW="180" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>Heading</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::VCurly" x="357" y="158" w="99" h="26" measuredW="180" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>Sub%20Heading</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="208" y="216" w="-1" h="-1" measuredW="115" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Dashboard%2CNotes</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::VCurly" x="0" y="200" w="180" h="56" measuredW="180" measuredH="140" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>Breadcrumb%20%3E%20this%20show%20how%20you%20are%20from%20dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Link" x="199" y="254" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Courses</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Link" x="199" y="515" w="-1" h="-1" measuredW="99" measuredH="26" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>e-Librabry</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Tree" x="199" y="541" w="198" h="223" measuredW="300" measuredH="225" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3EChapter1%0Av%20topic%0A%20v%20..%20sub%20topic%0A%20..-%20xxx%0A%20..-%20xxx%0A%20..-%20xxx%0A%3EChapter2</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::VCurly" x="48" y="288" w="117" h="227" measuredW="180" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>by%20default%20courses%20notes%20list%20will%20display%20%0Awhen%20we%20click%20e-Lib%20then%201st%20list%20is%20hide%20%0Aand%202nd%20will%20display</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

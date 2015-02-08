@@ -63,9 +63,9 @@
         <text>width%20col-9%0Afrom%20bootstrap</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Tree" x="208" y="271" w="182" h="507" measuredW="300" measuredH="453" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Tree" x="208" y="271" w="182" h="507" measuredW="300" measuredH="474" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%3E%20Topic%0Av%20sub%20topic%0A%20v%20..%20sub%20topic%0A%20..-%20xxx%0A%20..-%20xxx%0A%20..-%20xxx%0A%3E%20Topic%0A%3E%20Topic%0Av%20sub%20topic%0A%20v%20..%20sub%20topic%0A%20..-%20xxx%0A%20..-%20xxx%0A%20..-%20xxx%0A%3E%20Topic%0A%3E%20Topic%0Av%20sub%20topic%0A%20v%20..%20sub%20topic%0A%20..-%20xxx%0A%20..-%20xxx%0A%20..-%20xxx%0A%3E%20Topic</text>
+        <text>%3E%20Topic%0Av%20sub%20topic%0A%20v%20..%20sub%20topic%0A%20..-%20xxx%0A%20..-%20xxx%0A%20..-%20xxx%0Av%20Practice%20que%0A%3E%20Topic%0A%3E%20Topic%0Av%20sub%20topic%0A%20v%20..%20sub%20topic%0A%20..-%20xxx%0A%20..-%20xxx%0A%20..-%20xxx%0A%3E%20Topic%0A%3E%20Topic%0Av%20sub%20topic%0A%20v%20..%20sub%20topic%0A%20..-%20xxx%0A%20..-%20xxx%0A%20..-%20xxx%0A%3E%20Topic</text>
       </controlProperties>
     </control>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="218" y="239" w="156" h="-1" measuredW="104" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
@@ -98,38 +98,38 @@
         <text>Go%20Back</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::SubTitle" x="607" y="151" w="166" h="-1" measuredW="157" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20Course%20Name</text>
-      </controlProperties>
-    </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::VCurly" x="391" y="113" w="86" h="26" measuredW="180" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::VCurly" x="391" y="113" w="86" h="26" measuredW="180" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>right</direction>
         <text>Heading</text>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::VCurly" x="366" y="148" w="125" h="40" measuredW="180" measuredH="140" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::VCurly" x="366" y="148" w="125" h="40" measuredW="180" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>right</direction>
         <text>Sub%20Heading%20%0A%20selected%20opt</text>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="260" y="194" w="-1" h="-1" measuredW="223" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="260" y="194" w="-1" h="-1" measuredW="306" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <size>13</size>
-        <text>Dashboard%2C%20Courses%2Ccourse%20name</text>
+        <text>Dashboard%2C%20Courses%2CSyllabus%2CSubject%2CVedio</text>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::VCurly" x="20" y="178" w="156" h="56" measuredW="180" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::VCurly" x="20" y="178" w="156" h="56" measuredW="180" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>right</direction>
         <text>Breadcrumb%20%3E%20this%20show%20how%20you%20are%20from%20dashboard</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::VCurly" x="346" y="235" w="89" h="32" measuredW="180" measuredH="140" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::VCurly" x="346" y="235" w="89" h="32" measuredW="180" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Use%20%3Ch3%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::SubTitle" x="642" y="151" w="67" h="-1" measuredW="58" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>vedio</text>
       </controlProperties>
     </control>
   </controls>

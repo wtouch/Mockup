@@ -44,67 +44,67 @@
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="102" y="244" w="980" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="156" y="259" w="859" h="-1" measuredW="79" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="259" w="889" h="-1" measuredW="79" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::List" x="146" y="308" w="190" h="115" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::List" x="146" y="326" w="190" h="115" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Courses</text>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::List" x="378" y="308" w="197" h="115" measuredW="100" measuredH="126" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::List" x="378" y="326" w="197" h="115" measuredW="100" measuredH="126" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tests</text>
       </controlProperties>
     </control>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::List" x="615" y="308" w="190" h="115" measuredW="100" measuredH="126" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::List" x="615" y="326" w="190" h="115" measuredW="100" measuredH="126" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Assignments%20offline</text>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::List" x="845" y="310" w="190" h="114" measuredW="100" measuredH="126" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::List" x="845" y="328" w="190" h="114" measuredW="100" measuredH="126" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Project</text>
       </controlProperties>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::List" x="146" y="437" w="190" h="105" measuredW="100" measuredH="126" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::List" x="146" y="455" w="190" h="105" measuredW="100" measuredH="126" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>virtual%20tour%0A%28online%29</text>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::List" x="378" y="437" w="197" h="105" measuredW="100" measuredH="126" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::List" x="378" y="455" w="197" h="105" measuredW="100" measuredH="126" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>e-library%0A%28online%29</text>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::List" x="615" y="437" w="190" h="105" measuredW="100" measuredH="126" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::List" x="615" y="455" w="190" h="105" measuredW="100" measuredH="126" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>encyclopedia%0A%28Gyankosh%29%0A%28online%29</text>
       </controlProperties>
     </control>
-    <control controlID="89" controlTypeID="com.balsamiq.mockups::List" x="845" y="437" w="190" h="105" measuredW="100" measuredH="126" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::List" x="845" y="455" w="190" h="105" measuredW="100" measuredH="126" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Todays%20Special%0A%28online%29</text>
       </controlProperties>
     </control>
-    <control controlID="90" controlTypeID="com.balsamiq.mockups::List" x="146" y="562" w="190" h="114" measuredW="100" measuredH="126" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::List" x="146" y="580" w="190" h="114" measuredW="100" measuredH="126" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>My%20classmates%0A%28Online%29</text>
       </controlProperties>
     </control>
-    <control controlID="91" controlTypeID="com.balsamiq.mockups::List" x="378" y="562" w="197" h="114" measuredW="100" measuredH="126" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::List" x="378" y="580" w="197" h="114" measuredW="100" measuredH="126" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <text>News%20Announcements%0A%28online%29</text>
       </controlProperties>
     </control>
-    <control controlID="92" controlTypeID="com.balsamiq.mockups::List" x="615" y="562" w="190" h="114" measuredW="100" measuredH="126" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::List" x="615" y="580" w="190" h="114" measuredW="100" measuredH="126" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Virtual%20discussion%0A%28online%29</text>
       </controlProperties>
     </control>
-    <control controlID="93" controlTypeID="com.balsamiq.mockups::List" x="845" y="563" w="190" h="113" measuredW="100" measuredH="126" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::List" x="845" y="581" w="190" h="113" measuredW="100" measuredH="126" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Discussion%20portal%0A%28online%29</text>
       </controlProperties>
@@ -115,7 +115,7 @@
         <text>progress%20report%20dt%27s%20%0Acourse%2Ctest%2Cassign%2Cproject</text>
       </controlProperties>
     </control>
-    <control controlID="99" controlTypeID="com.balsamiq.mockups::Tooltip" x="1004" y="269" w="267" h="42" measuredW="272" measuredH="0" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Tooltip" x="1035" y="269" w="267" h="42" measuredW="272" measuredH="0" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>News%20And%20Announsment%20scrolling%20with%20link</text>
       </controlProperties>
@@ -154,10 +154,21 @@
         <text>Breadcrumb%20%3E%20this%20show%20how%20you%20are%20from%20dashboard</text>
       </controlProperties>
     </control>
-    <control controlID="106" controlTypeID="com.balsamiq.mockups::ProgressBar" x="146" y="696" w="898" h="20" measuredW="100" measuredH="20" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::ProgressBar" x="146" y="702" w="898" h="20" measuredW="100" measuredH="20" zOrder="32" locked="false" isInGroup="-1"/>
     <control controlID="107" controlTypeID="com.balsamiq.mockups::VCurly" x="1125" y="681" w="218" h="41" measuredW="180" measuredH="140" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <text>particular%20progress%20report%20dt%27s%20%0Acourse%2Ctest%2Cassign%2Cproject</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="146" y="292" w="94" h="27" measuredW="57" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notes</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::VCurly" x="13" y="278" w="130" h="41" measuredW="180" measuredH="140" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>here%20u%20can%20view%20ur%20notes</text>
       </controlProperties>
     </control>
   </controls>

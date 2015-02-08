@@ -1,0 +1,112 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1365" measuredH="796" mockupW="1325" mockupH="769">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="120" y="27" w="1030" h="769" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Websites</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="120" y="96" w="1024" h="80" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="356" y="99" w="559" h="-1" measuredW="188" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Small%20Busi</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="142" y="152" w="155" h="-1" measuredW="147" measuredH="20" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Wed%2C%2004-Feb-15%20%7C%2010%3A00%20AM</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="913" y="111" w="-1" h="-1" measuredW="102" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::VCurly" x="1150" y="104" w="117" h="72" measuredW="180" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>height%2080px</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="185" w="980" h="560" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::HRule" x="146" y="224" w="969" h="-1" measuredW="100" measuredH="10" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="1066" y="192" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ListIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::VCurly" x="1153" y="192" w="212" h="32" measuredW="180" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20is%20collapsible%20menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="951" y="193" w="94" h="27" measuredW="72" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Go%20Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::VCurly" x="302" y="107" w="86" h="26" measuredW="180" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>Heading</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::VCurly" x="317" y="131" w="125" h="40" measuredW="180" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>Sub%20Heading%20%0A%20selected%20opt</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="220" y="189" w="-1" h="-1" measuredW="135" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Dashboard%2CWebsites</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::VCurly" x="40" y="185" w="156" h="44" measuredW="180" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>right</direction>
+        <text>Breadcrumb%20%3E%20this%20show%20how%20you%20are%20from%20dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SubTitle" x="594" y="138" w="106" h="-1" measuredW="102" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Websites</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="142" y="104" w="145" h="53" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Small%20Busi%20logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Webcam" x="1051" y="99" w="93" h="77" measuredW="177" measuredH="146" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Tooltip" x="1078" y="163" w="140" h="50" measuredW="127" measuredH="0" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>log%20out%0AEdit%20Profile</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::DataGrid" x="181" y="276" w="897" h="447" measuredW="339" measuredH="39" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>Sr.%20No.%2CSite%20Names%5Cr%20%5E%2C%20Start%20Date%20%5Ev%2C%20Exp.%20Date%20%5Ev</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="962" y="234" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>LeftFillTriangleIcon%7Cxsmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="1013" y="234" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

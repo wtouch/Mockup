@@ -198,12 +198,9 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="107" controlTypeID="com.balsamiq.mockups::PointyButton" x="951" y="264" w="-1" h="-1" measuredW="89" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::ComboBox" x="955" y="264" w="-1" h="-1" measuredW="85" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
-        <borderStyle>none</borderStyle>
-        <direction>left</direction>
-        <newLayout>true</newLayout>
-        <text>Categary%20</text>
+        <text>Category</text>
       </controlProperties>
     </control>
   </controls>
