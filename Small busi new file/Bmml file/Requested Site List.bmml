@@ -1,14 +1,14 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1365" measuredH="796" mockupW="1325" mockupH="769">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1423" measuredH="796" mockupW="1383" mockupH="769">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="120" y="27" w="1030" h="769" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Template</text>
+        <text>Requested%20Site%20List</text>
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="120" y="96" w="1024" h="80" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="356" y="99" w="559" h="-1" measuredW="419" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="356" y="99" w="559" h="-1" measuredW="234" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Welcome%20To%20Small%20Busi</text>
+        <text>My%20Websites</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="142" y="152" w="155" h="-1" measuredW="147" measuredH="20" zOrder="3" locked="false" isInGroup="-1">
@@ -18,9 +18,9 @@
         <textOrientation>right</textOrientation>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="913" y="111" w="-1" h="-1" measuredW="125" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="913" y="111" w="-1" h="-1" measuredW="102" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Welcome%20User%20Name</text>
+        <text>Welcome%20to%20User</text>
       </controlProperties>
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::VCurly" x="1150" y="104" w="117" h="72" measuredW="180" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
@@ -61,10 +61,10 @@
         <text>Sub%20Heading%20%0A%20selected%20opt</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="220" y="189" w="-1" h="-1" measuredW="134" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="220" y="189" w="-1" h="-1" measuredW="292" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <size>13</size>
-        <text>Dashboard%2CTemplate</text>
+        <text>Dashboard%2CMy%20Websites%2CRequested%20Site%20List</text>
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::VCurly" x="40" y="185" w="156" h="44" measuredW="180" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
@@ -73,9 +73,9 @@
         <text>Breadcrumb%20%3E%20this%20show%20how%20you%20are%20from%20dashboard</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::SubTitle" x="553" y="138" w="184" h="-1" measuredW="100" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SubTitle" x="519" y="138" w="221" h="-1" measuredW="219" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Template</text>
+        <text>Requested%20Site%20List</text>
       </controlProperties>
     </control>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="142" y="104" w="145" h="53" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
@@ -84,21 +84,47 @@
       </controlProperties>
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::Webcam" x="1051" y="99" w="93" h="77" measuredW="177" measuredH="146" zOrder="17" locked="false" isInGroup="-1"/>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Tooltip" x="1078" y="163" w="189" h="77" measuredW="181" measuredH="0" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Tooltip" x="1078" y="163" w="140" h="50" measuredW="127" measuredH="0" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>when%20u%20click%20this%20img%0Alog%20out%20opt</text>
+        <text>log%20out%0AEdit%20Profile</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::DataGrid" x="196" y="298" w="873" h="314" measuredW="541" measuredH="238" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::PointyButton" x="999" y="235" w="46" h="-1" measuredW="46" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <icon>HLinesIcon%7Cxsmall</icon>
+        <newLayout>true</newLayout>
+        <size>16</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::VCurly" x="1144" y="234" w="279" h="50" measuredW="180" measuredH="140" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>show%20Website%20list%0Arequest%20new%20site%0ARequested%20Site%20List</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Canvas" x="142" y="224" w="220" h="521" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Link" x="149" y="307" w="-1" h="-1" measuredW="205" measuredH="26" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <size>20</size>
-        <text>%20Sr.%20No.%2C%20Template%20Name%20%20%2Cdue%20date%2C%20exp.date%20%2CPrice%2C%20%20free%0A1%0A2%0A3%0A4%0A5%0A6%0A7</text>
+        <text>Approved%20/Active%20List</text>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Tooltip" x="336" y="366" w="259" h="87" measuredW="483" measuredH="33" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Link" x="149" y="417" w="-1" h="-1" measuredW="141" measuredH="26" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>when%20we%20click%20name%20of%20template%20then%20pop%20up%20this%20template%20into%20full%20screen</text>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Regicted%20Sites</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Link" x="149" y="363" w="-1" h="-1" measuredW="130" measuredH="26" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Pending%20Sites</text>
       </controlProperties>
     </control>
   </controls>

@@ -93,24 +93,24 @@
     <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="874" y="364" w="202" h="189" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1"/>
     <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="177" y="363" w="211" h="190" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1"/>
     <control controlID="27" controlTypeID="com.balsamiq.mockups::Canvas" x="411" y="363" w="203" h="190" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1"/>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="261" y="400" w="69" h="-1" measuredW="50" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="261" y="400" w="69" h="-1" measuredW="55" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>MAil%20box</text>
+        <text>Enquiries</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="472" y="413" w="69" h="-1" measuredW="54" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="472" y="413" w="69" h="-1" measuredW="105" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Template</text>
+        <text>Template%20Manage</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="709" y="421" w="69" h="-1" measuredW="51" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="709" y="421" w="69" h="-1" measuredW="46" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Busi%20List</text>
+        <text>My%20Busi</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="936" y="421" w="69" h="-1" measuredW="59" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="936" y="421" w="69" h="-1" measuredW="77" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Web%20sites</text>
+        <text>My%20Websites</text>
       </controlProperties>
     </control>
   </controls>
