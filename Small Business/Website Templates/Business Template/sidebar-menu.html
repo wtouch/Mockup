@@ -6,6 +6,11 @@
         <link rel="stylesheet" href="css/bootstrap.css">
         <!--style for product and services list-->
         <style>
+            .prod{width: 100%;border: 1px solid;}
+            #logo{width: 100px;height: 69px;}
+            .list{list-style:none;float:left;padding:0px;}
+            .list li{ float:left;margin:4px;}
+            .foot{margin:30px auto;padding:10px;background-color:black;color:white;border:1px solid black;border-radius:5px;}
             @font-face {
         font-family: 'WebSymbolsRegular';
         src: url('websymbols/websymbols-regular-webfont.eot');
@@ -22,13 +27,13 @@
         width: 100%;
     }
     .ca-menu li{
-        width: 200px;
+        width: 19.7%;
         height: 300px;
         overflow: hidden;
         position: relative;
         float: left;
         border: 5px solid #fff;
-        background: #e2f0ff;
+        background: #eee;
         -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
         -moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
         box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
@@ -99,7 +104,7 @@
         transition: all 200ms linear;
     }
     .ca-menu li:hover{
-        background-color: #fff;
+        background-color: pink;
     }
     .ca-menu li:hover .ca-icon{
         text-shadow: 0px 0px 20px #c5e4f4;
@@ -182,7 +187,7 @@
 	}
 	
 	a {
-		color: #2A679F;
+		color: #eee;
 	}
 	
 	/* You don't need the above styles, they are demo-specific ----------- */
@@ -526,217 +531,249 @@
 	</style>
     </head>
     <body>
-        <header class="border-bottom">
-            <img>
-            <h1></h1>
+        <header class="container">
+            <img src="images.jpg" class="pull-left" id="logo">
+            <h1 class="text-center">Business Name</h1>
         </header>
         <div class="container">
-            <nav id="menu-wrap"><div id="menu-trigger">Menu</div>    
-	<ul id="menu">
-		<li><a href="/">Home</a></li>
-
-		<li>
-			<a href="">Categories</a>
-			<ul>
-				<li>
-					<a href="">CSS</a>
-					<ul>
-						<li><a href="">Item 11</a></li>
-
-						<li><a href="">Item 12</a></li>
-						<li><a href="">Item 13</a></li>
-						<li><a href="">Item 14</a></li>
-					</ul>				
-				</li>
-				<li>
-					<a href="">Graphic design</a>
-
-					<ul>
-						<li><a href="">Item 21</a></li>
-						<li><a href="">Item 22</a></li>
-						<li><a href="">Item 23</a></li>
-						<li><a href="">Item 24</a></li>
-					</ul>				
-				</li>
-
-				<li>
-					<a href="">Development tools</a>
-					<ul>
-						<li><a href="">Item 31</a></li>
-						<li><a href="">Item 32</a></li>
-						<li><a href="">Item 33</a></li>
-						<li><a href="">Item 34</a></li>
-
-					</ul>				
-				</li>
-				<li>
-					<a href="">Web design</a>				
-					<ul>
-						<li><a href="">Item 41</a></li>
-						<li><a href="">Item 42</a></li>
-						<li><a href="">Item 43</a></li>
-
-						<li><a href="">Item 44</a></li>
-					</ul>	
-				</li>
-			</ul>
-		</li>
-		<li>
-			<a href="">Work</a>
-			<ul>
-
-				<li>
-					<a href="">Work 1</a>
-					<ul>
-						<li>
-							<a href="">Work 11</a>		
-							<ul>
-								<li><a href="">Work 111</a></li>
-								<li><a href="">Work 112</a></li>
-
-								<li><a href="">Work 113</a></li>
-							</ul>							
-						</li>
-						<li>
-							<a href="">Work 12</a>
-							<ul>
-								<li><a href="">Work 121</a></li>
-								<li><a href="">Work 122</a></li>
-
-								<li><a href="">Work 123</a></li>
-							</ul>							
-						</li>
-						<li>
-							<a href="">Work 13</a>
-							<ul>
-								<li><a href="">Work 131</a></li>
-								<li><a href="">Work 132</a></li>
-
-								<li><a href="">Work 133</a></li>
-							</ul>							
-						</li>
-					</ul>					
-				</li>
-				<li>
-					<a href="">Work 2</a>
-					<ul>
-						<li>
-
-							<a href="">Work 21</a>
-							<ul>
-								<li><a href="">Work 211</a></li>
-								<li><a href="">Work 212</a></li>
-								<li><a href="">Work 213</a></li>
-							</ul>							
-						</li>
-
-						<li>
-							<a href="">Work 22</a>
-							<ul>
-								<li><a href="">Work 221</a></li>
-								<li><a href="">Work 222</a></li>
-								<li><a href="">Work 223</a></li>
-							</ul>							
-						</li>
-
-						<li>
-							<a href="">Work 23</a>
-							<ul>
-								<li><a href="">Work 231</a></li>
-								<li><a href="">Work 232</a></li>
-								<li><a href="">Work 233</a></li>
-							</ul>							
-						</li>
-
-					</ul>					
-				</li>
-				<li>
-					<a href="">Work 3</a>
-					<ul>
-						<li>
-							<a href="">Work 31</a>
-							<ul>
-
-								<li><a href="">Work 311</a></li>
-								<li><a href="">Work 312</a></li>
-								<li><a href="">Work 313</a></li>
-							</ul>							
-						</li>
-						<li>
-							<a href="">Work 32</a>
-
-							<ul>
-								<li><a href="">Work 321</a></li>
-								<li><a href="">Work 322</a></li>
-								<li><a href="">Work 323</a></li>
-							</ul>							
-						</li>
-						<li>
-							<a href="">Work 33</a>
-
-							<ul>
-								<li><a href="">Work 331</a></li>
-								<li><a href="">Work 332</a></li>
-								<li><a href="">Work 333</a></li>
-							</ul>							
-						</li>
-					</ul>					
-				</li>
-
-			</ul>		
-		</li>
-		<li><a href="">About</a></li>
-		<li><a href="">Contact</a></li>
-	</ul>
-</nav>
-            <div class="row">
-                <div class="col-sm-3">
-                </div>
-                <div class="col-sm-9">
-                    <h3>Our Products</h3>
-                    <ul class="ca-menu">
+                <nav id="menu-wrap"><div id="menu-trigger">Menu</div>    
+                <ul id="menu">
+                    <li><a href="/">Home</a></li>
+            
                     <li>
-                        <a href="#">
-                            <span class="ca-icon">F</span>
-                            <div class="ca-content">
-                                <h2 class="ca-main">Exceptional Service</h2>
-                                <h3 class="ca-sub">Personalized to your needs</h3>
-                            </div>
-                        </a>
+                        <a href="">Services</a>
+                        <ul>
+                            <li>
+                                <a href="">CSS</a>
+                                <ul>
+                                    <li><a href="">Item 11</a></li>
+            
+                                    <li><a href="">Item 12</a></li>
+                                    <li><a href="">Item 13</a></li>
+                                    <li><a href="">Item 14</a></li>
+                                </ul>				
+                            </li>
+                            <li>
+                                <a href="">Services</a>
+            
+                                <ul>
+                                    <li><a href="">Item 21</a></li>
+                                    <li><a href="">Item 22</a></li>
+                                    <li><a href="">Item 23</a></li>
+                                    <li><a href="">Item 24</a></li>
+                                </ul>				
+                            </li>
+            
+                            <li>
+                                <a href="">Development tools</a>
+                                <ul>
+                                    <li><a href="">Item 31</a></li>
+                                    <li><a href="">Item 32</a></li>
+                                    <li><a href="">Item 33</a></li>
+                                    <li><a href="">Item 34</a></li>
+            
+                                </ul>				
+                            </li>
+                            <li>
+                                <a href="">Web design</a>				
+                                <ul>
+                                    <li><a href="">Item 41</a></li>
+                                    <li><a href="">Item 42</a></li>
+                                    <li><a href="">Item 43</a></li>
+            
+                                    <li><a href="">Item 44</a></li>
+                                </ul>	
+                            </li>
+                        </ul>
                     </li>
                     <li>
-                        <a href="#">
-                            <span class="ca-icon">H</span>
-                            <div class="ca-content">
-                                <h2 class="ca-main">Creative Storytelling</h2>
-                                <h3 class="ca-sub">Advanced use of technology</h3>
-                            </div>
-                        </a>
+                        <a href="">Products</a>
+                        <ul>
+            
+                            <li>
+                                <a href="">Work 1</a>
+                                <ul>
+                                    <li>
+                                        <a href="">Work 11</a>		
+                                        <ul>
+                                            <li><a href="">Work 111</a></li>
+                                            <li><a href="">Work 112</a></li>
+            
+                                            <li><a href="">Work 113</a></li>
+                                        </ul>							
+                                    </li>
+                                    <li>
+                                        <a href="">Work 12</a>
+                                        <ul>
+                                            <li><a href="">Work 121</a></li>
+                                            <li><a href="">Work 122</a></li>
+            
+                                            <li><a href="">Work 123</a></li>
+                                        </ul>							
+                                    </li>
+                                    <li>
+                                        <a href="">Work 13</a>
+                                        <ul>
+                                            <li><a href="">Work 131</a></li>
+                                            <li><a href="">Work 132</a></li>
+            
+                                            <li><a href="">Work 133</a></li>
+                                        </ul>							
+                                    </li>
+                                </ul>					
+                            </li>
+                            <li>
+                                <a href="">Work 2</a>
+                                <ul>
+                                    <li>
+            
+                                        <a href="">Work 21</a>
+                                        <ul>
+                                            <li><a href="">Work 211</a></li>
+                                            <li><a href="">Work 212</a></li>
+                                            <li><a href="">Work 213</a></li>
+                                        </ul>							
+                                    </li>
+            
+                                    <li>
+                                        <a href="">Work 22</a>
+                                        <ul>
+                                            <li><a href="">Work 221</a></li>
+                                            <li><a href="">Work 222</a></li>
+                                            <li><a href="">Work 223</a></li>
+                                        </ul>							
+                                    </li>
+            
+                                    <li>
+                                        <a href="">Work 23</a>
+                                        <ul>
+                                            <li><a href="">Work 231</a></li>
+                                            <li><a href="">Work 232</a></li>
+                                            <li><a href="">Work 233</a></li>
+                                        </ul>							
+                                    </li>
+            
+                                </ul>					
+                            </li>
+                            <li>
+                                <a href="">Work 3</a>
+                                <ul>
+                                    <li>
+                                        <a href="">Work 31</a>
+                                        <ul>
+            
+                                            <li><a href="">Work 311</a></li>
+                                            <li><a href="">Work 312</a></li>
+                                            <li><a href="">Work 313</a></li>
+                                        </ul>							
+                                    </li>
+                                    <li>
+                                        <a href="">Work 32</a>
+            
+                                        <ul>
+                                            <li><a href="">Work 321</a></li>
+                                            <li><a href="">Work 322</a></li>
+                                            <li><a href="">Work 323</a></li>
+                                        </ul>							
+                                    </li>
+                                    <li>
+                                        <a href="">Work 33</a>
+            
+                                        <ul>
+                                            <li><a href="">Work 331</a></li>
+                                            <li><a href="">Work 332</a></li>
+                                            <li><a href="">Work 333</a></li>
+                                        </ul>							
+                                    </li>
+                                </ul>					
+                            </li>
+            
+                        </ul>		
                     </li>
-                    <li>
-                        <a href="#">
-                            <span class="ca-icon">N</span>
-                            <div class="ca-content">
-                                <h2 class="ca-main">Infographical Education</h2>
-                                <h3 class="ca-sub">Understanding visually</h3>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <span class="ca-icon">K</span>
-                            <div class="ca-content">
-                                <h2 class="ca-main">Sophisticated Team</h2>
-                                <h3 class="ca-sub">Professionals in action</h3>
-                            </div>
-                        </a>
-                    </li>
+                    <li><a href="">About US</a></li>
+                    <li><a href="">Contact us</a></li>
                 </ul>
+            </nav>
+            </div>
+            <div class="container">
+            <div class="row">
+            <div class="col-sm-9">
+                <h2>Welcome to our businee website.</h2>
+                <p>My business is about deliveing vaies types of computer mationaries. thanks
+                he Unified Modeling Language (UML) is a general-purpose modeling language in the field of software engineering, which is designed to provide a standard way to visualize the design of a system.My business is about deliveing vaies types of computer mationaries. thanks.he Unified Modeling Language (UML) is a general-purpose modeling language in the field of software engineering, which is designed to provide a standard way to visualize the design of a system.My business is about deliveing vaies types of computer mationaries. thanks.he Unified Modeling Language (UML) is a general-purpose modeling language in the field of software engineering, which is designed to provide a standard way to visualize the design of a system.My business is about deliveing vaies types of computer mationaries. thanks.he Unified Modeling Language (UML) is a general-purpose modeling language in the field of software engineering, which is designed to provide a standard way to visualize the design of a system.</p>
+                <button class="btn btn-default pull-right">Read More</button>
+            </div>
+            <div class="col-sm-3">
+                <ul class="ca-menu">
+                                <li style="width:100%">
+                                    <a href="#">
+                                        <img class="prod ca-icon"  src="product.jpg">
+                                        <div class="ca-content">
+                                            <h2 class="ca-main">Exceptional Service</h2>
+                                            <h3 class="ca-sub">Personalized to your needs</h3>
+                                        </div>
+                                    </a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+                
+            <div class="clearfix">
+                                <h3>Our Products</h3>
+                                <ul class="ca-menu">
+                                <li>
+                                    <a href="#">
+                                        <img class="prod ca-icon"  src="product.jpg">
+                                        <div class="ca-content">
+                                            <h2 class="ca-main">Exceptional Service</h2>
+                                            <h3 class="ca-sub">Personalized to your needs</h3>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img class="prod ca-icon"  src="product.jpg">
+                                        <div class="ca-content">
+                                            <h2 class="ca-main">Creative Storytelling</h2>
+                                            <h3 class="ca-sub">Advanced use of technology</h3>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img class="prod ca-icon"  src="product.jpg">
+                                        <div class="ca-content">
+                                            <h2 class="ca-main">Infographical Education</h2>
+                                            <h3 class="ca-sub">Understanding visually</h3>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img class="prod ca-icon"  src="product.jpg">
+                                        <div class="ca-content">
+                                            <h2 class="ca-main">Sophisticated Team</h2>
+                                            <h3 class="ca-sub">Professionals in action</h3>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img class="prod ca-icon"  src="product.jpg">
+                                        <div class="ca-content">
+                                            <h2 class="ca-main">Sophisticated Team</h2>
+                                            <h3 class="ca-sub">Professionals in action</h3>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                </div>
+                <div class="clearfix">
                 <h3>Our Services</h3>
                 <ul class="ca-menu">
                     <li>
                         <a href="#">
-                            <span class="ca-icon">F</span>
+                            <img class="prod ca-icon"  src="product.jpg">
                             <div class="ca-content">
                                 <h2 class="ca-main">Exceptional Service</h2>
                                 <h3 class="ca-sub">Personalized to your needs</h3>
@@ -745,7 +782,7 @@
                     </li>
                     <li>
                         <a href="#">
-                            <span class="ca-icon">H</span>
+                            <img class="prod ca-icon"  src="product.jpg">
                             <div class="ca-content">
                                 <h2 class="ca-main">Creative Storytelling</h2>
                                 <h3 class="ca-sub">Advanced use of technology</h3>
@@ -754,7 +791,7 @@
                     </li>
                     <li>
                         <a href="#">
-                            <span class="ca-icon">N</span>
+                            <img class="prod ca-icon"  src="product.jpg">
                             <div class="ca-content">
                                 <h2 class="ca-main">Infographical Education</h2>
                                 <h3 class="ca-sub">Understanding visually</h3>
@@ -763,19 +800,36 @@
                     </li>
                     <li>
                         <a href="#">
-                            <span class="ca-icon">K</span>
+                            <img class="prod ca-icon"  src="product.jpg">
                             <div class="ca-content">
                                 <h2 class="ca-main">Sophisticated Team</h2>
                                 <h3 class="ca-sub">Professionals in action</h3>
                             </div>
                         </a>
                     </li>
-                </ul>
-                    
+                    <li>
+                        <a href="#">
+                            <img class="prod ca-icon"  src="product.jpg">
+                            <div class="ca-content">
+                                <h2 class="ca-main">Sophisticated Team</h2>
+                                <h3 class="ca-sub">Professionals in action</h3>
+                            </div>
+                        </a>
+                    </li>
+                </ul>    
             </div>
-        </div>
-        <footer>
-            
+            </div>
+        <footer class="container">
+            <div class="foot">
+            <ul class="list">
+                <li><a>Home</a></li>
+                <li><a>bout Us</a></li>
+                <li><a>Products</a></li>
+                <li><a>Services</a></li>
+                <li><a>Contact Us</a></li>
+            </ul>
+            <p>Designed By:&nbsp;<a href="www.wtouch.in">Web Touch</a></p>
+            </div>
         </footer>
     </body>
 </html>
