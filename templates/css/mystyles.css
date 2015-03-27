@@ -1,0 +1,104 @@
+body {
+  background-color: #1E2103;
+}
+body .section {
+  background-color: #EEEBDF;
+}
+.sidemenu{
+color:white;
+}
+.sidemenu:hover,.sidemenu:focus{
+    color:#FC0;
+    text-decoration:none;
+}
+body .navbar-default {
+  background-image: url(../img/header.png);
+    background-size:100%;
+  border: none;
+  color: #fff;
+}
+.navbar{
+    margin-bottom:0px;
+}
+body .navbar-default .navbar-nav>li {
+  background-repeat: no-repeat;
+  display: block;
+  height: 88px;
+  float: left;
+  width: 145px;
+  position: relative;
+  list-style-image: none;
+}
+body .navbar-default .navbar-nav>li:hover{background-image: url(../img/nav_bg_active.png);}
+body .navbar-default .navbar-nav li>a {
+ font-family: "Century Gothic";
+  font-weight: bold;
+  color: #FFF;
+  text-decoration: none;
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+  padding-left: 40px;
+  font-style: normal;
+}
+body .navbar-default .navbar-nav li>a:hover {
+  color: #FC0;
+}
+body .navbar-default .navbar-nav li ul {
+  background-color: #A7A81C;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav.open a:hover {
+  color: #FC0;
+    background-image: url(../img/nav_bg_active.png);
+    background-color:transparent;
+}
+body .navbar-default .navbar-nav li ul a{
+  background-color: #A7A81C;
+    padding:5px 5px 5px 5px;
+}
+body .navbar-default .navbar-nav li ul a:hover{
+  background-color: #A7A81C;
+}
+body .info {
+  background-image: url(../img/home_bg.png);
+  color: #D8D858;
+}
+body .info a {
+  color: #D8D858;
+}
+body .featured {
+  background-image: url(../img/backimg.png);
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+body .heading {
+  background-color: rgba(7, 65, 7, 0.63);
+  border-radius: 5px;
+  color: #FFF;
+  padding: 5px;
+  line-height: 24px;
+  font-family: 'Open Sans', sans-serif;
+}
+body .contact {
+  margin-right: 10px;
+}
+body .pages {
+  position: relative;
+  margin-top: -30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  padding: 10px;
+  box-shadow: 5px 5px 5px #ccc;
+  border-radius: 3px;
+}
+.foot {
+  color: #FFF;
+    height:auto;
+  background-image: url(../img/footer.png);
+    background-size:100%;
+}
