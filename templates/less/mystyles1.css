@@ -178,3 +178,18 @@ body .foot .yellow {
 .yellow {
   color: #fc0;
 }
+.btn-primary {
+  color: #fff;
+  background-color: #c1f55d;
+  border-color: #c1e65c;
+}
+.btn-primary.active,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover,
+.open > .dropdown-toggle.btn-primary {
+  color: #ff9;
+  background-color: #c1f55d;
+  border-color: #c1e65c;
+}
