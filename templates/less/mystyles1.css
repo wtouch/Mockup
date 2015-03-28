@@ -1,0 +1,176 @@
+body {
+  background-color: #1E2103;
+  overflow: scroll;
+}
+body .navbar {
+  margin-bottom: 0px;
+}
+body .navbar .navbar-brand {
+  float: left;
+  height: 85px;
+  padding: 0px 0px;
+  font-size: 18px;
+  line-height: 20px;
+}
+body .navbar .navbar-brand a {
+  margin-left: 15px;
+}
+body .navbar-default {
+  background-color: transparent;
+  border: 0px;
+}
+body .navbar-default .head {
+  background-image: url(../img/header.png);
+}
+body .navbar-default .address {
+  width: 11%;
+  float: left;
+  color: white;
+}
+body .navbar-default .navbar-nav .open a:focus,
+body .navbar-default .navbar-nav .open a:hover {
+  background-color: transparent;
+  color: #fc0;
+}
+body .navbar-default .navbar-nav li {
+  background-image: url(../img/nav_bg.png);
+  background-repeat: no-repeat;
+  position: relative;
+  width: 145px;
+  height: 88px;
+}
+body .navbar-default .navbar-nav li a {
+  color: #fff;
+  background-color: transparent;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+  position: relative;
+  width: 92%;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+  padding-left: 40px;
+  font-style: normal;
+}
+body .navbar-default .navbar-nav li ul li {
+  background: none;
+  padding: 0px;
+  left: 0px;
+  width: 60px;
+  height: 35px;
+}
+body .navbar-default .navbar-nav li ul li a {
+  padding: 0px;
+  width: none;
+}
+body .navbar-default .navbar-nav a:hover {
+  color: #fc0;
+  background-color: transparent;
+}
+body .navbar-default .navbar-nav .dropdown-menu {
+  background-color: #A7A81C;
+  max-width: 158%;
+}
+body .navbar-default .navbar-nav .dropdown-menu .nav .open a:focus,
+body .navbar-default .navbar-nav .dropdown-menu .nav .open a:hover {
+  background-color: none;
+  border: none;
+}
+body .navbar-default .navbar-nav a:active {
+  color: #fff;
+}
+body .navbar-default .navbar-nav a:focus {
+  color: #fc0;
+}
+body .navbar-default li:nth-child(1) {
+  left: 46px;
+}
+body .navbar-default li:nth-child(2) {
+  left: 0px;
+}
+body .navbar-default li:nth-child(3) {
+  left: -46px;
+}
+body .navbar-default li:nth-child(4) {
+  left: -92px;
+}
+body .navbar-default li:nth-child(5) {
+  left: -138px;
+}
+body .navbar-default li:nth-child(6) {
+  left: -184px;
+}
+body .navbar-default li:hover {
+  background-image: url(../img/nav_bg_active.png);
+  background-repeat: no-repeat;
+}
+body .info {
+  background-image: url(../img/home_bg.png);
+  height: 192px;
+  background-size: 100%;
+}
+body .info .featured {
+  margin-top: 5px;
+  color: #ff9;
+  background-image: url(../img/backimg.png);
+  margin-left: 10px;
+  padding: 5px 10px;
+}
+body .info .featured h3 {
+  color: #c1e65c;
+  background-image: url(../img/side_box-h1.png);
+  background-repeat: no-repeat;
+  padding-left: 26px;
+  margin: 2px;
+  padding-top: 14px;
+}
+body .info .contact {
+  color: white;
+}
+body .info .contact h3 {
+  color: white;
+  background-color: rgba(7, 65, 7, 0.63);
+  border-radius: 5px;
+  color: #FFF;
+  padding: 5px;
+  line-height: 24px;
+  font-family: 'Open Sans', sans-serif;
+}
+body .info .contact h3 {
+  color: white;
+}
+body .info .astrology h3 {
+  color: white;
+  background-color: rgba(7, 65, 7, 0.63);
+  border-radius: 5px;
+  color: #FFF;
+  padding: 5px;
+  line-height: 24px;
+  font-family: 'Open Sans', sans-serif;
+}
+body .info .astrology ul {
+  list-style-type: none;
+}
+body .info .astrology a {
+  color: #ff9;
+}
+body .foot {
+  padding: 15px;
+  color: #FFF;
+  height: auto;
+  background-image: url(../img/footer.png);
+}
+body .foot .copy {
+  font-size: 10px;
+}
+body .foot .yellow {
+  color: #fc0;
+}
+.navbar > .container .navbar-brand {
+  margin-left: 15px;
+}
+.yellow {
+  color: #fc0;
+}
