@@ -71,7 +71,7 @@ body .navbar-default .navbar-nav a:hover {
 }
 body .navbar-default .navbar-nav .dropdown-menu {
   background-color: #A7A81C;
-  max-width: 158%;
+  width: 160%;
 }
 body .navbar-default .navbar-nav .dropdown-menu .nav .open a:focus,
 body .navbar-default .navbar-nav .dropdown-menu .nav .open a:hover {
@@ -127,6 +127,7 @@ body .info .featured h3 {
   padding-top: 14px;
 }
 body .info .contact {
+  padding: 0px 5px;
   color: white;
 }
 body .info .contact h3 {
@@ -140,6 +141,9 @@ body .info .contact h3 {
 }
 body .info .contact h3 {
   color: white;
+}
+body .info .astrology {
+  padding: 0px 5px;
 }
 body .info .astrology h3 {
   color: white;
